@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Philippine 👋
 
-<!--
-**pblijdenstein/pblijdenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in Systems Engineering at UC Berkeley.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in the intersection of:
+
+- Artificial Intelligence
+- Venture Capital
+- Startups
+- Systems Engineering
+- Data Science
+
+I enjoy exploring new ideas, building technical projects, and learning how technology creates business opportunities.
+
+## Currently Working On
+
+- Learning software engineering
+- AI projects
+- Venture capital research
+- Startup analysis
+
+## Tech Stack
+
+Python • C++ • SQL • Power BI • Git • GitHub
+
+## Education
+
+🎓 M.Eng. Systems Engineering — UC Berkeley
+
+🎓 B.Sc. Civil Engineering — Delft University of Technology
+
+## Current Goal
+
+Become an engineer who can build AI products, understand technology deeply, and evaluate startups and businesses.
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/philippineblijdenstein
