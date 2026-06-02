@@ -1,4 +1,4 @@
-# Hi, I'm Philippine 👋
+## Hi, I'm Philippine
 
 Master's student in Systems Engineering at UC Berkeley.
 
