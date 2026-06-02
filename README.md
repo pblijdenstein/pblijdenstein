@@ -9,6 +9,5 @@ I'm interested in the intersection of:
 
 I enjoy exploring new ideas, building technical projects, and learning how technology creates business opportunities. My current goal is to become an engineer who can build AI products, understand technology deeply, and evaluate startups and businesses.
 
-### Connect
-
+Connect:
 LinkedIn: https://www.linkedin.com/in/philippineblijdenstein
