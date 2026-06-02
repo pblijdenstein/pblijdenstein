@@ -1,4 +1,4 @@
-Hi, I'm a Master of Engineering Graduate in Systems Engineering at UC Berkeley.
+Master of Engineering graduate in Systems Engineering from UC Berkeley.
 I'm interested in the intersection of:
 
 - Artificial Intelligence
